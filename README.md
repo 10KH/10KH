@@ -1,1 +1,1 @@
-Smart is Sexy.
+Obsession with Perfection
