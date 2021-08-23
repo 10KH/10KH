@@ -1,1 +1,1 @@
-Smart is Sexy
+Smart is Sexy.
