@@ -8,5 +8,5 @@
 
 🌱 I’m currently learning Math & Deep Learning & Flutter
 
-🌟 I'm interested in AI
+🌟 I'm interested in AI, Math
 
