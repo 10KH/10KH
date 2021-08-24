@@ -2,7 +2,7 @@
 
 ✏️ Smart City & SW Engineering
 
-✉️ email : writerwoody@gmail.com
+✉️ email : shes100@konkuk.ac.kr
 
 📋 Blog : https://Woojin-Lee-AI.github.io
 
