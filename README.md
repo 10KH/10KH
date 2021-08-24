@@ -6,7 +6,7 @@
 
 📋 Blog : https://blog.naver.com/writerwoody
 
-🌱 I’m currently learning Math & Deep Learning & Flutter
+🌱 I’m currently learning Math & Deep Learning
 
 🌟 I'm interested in AI
 
