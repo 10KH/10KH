@@ -1,5 +1,5 @@
 🏫 Konkuk Univ. Seoul, Korea  
-✏️ Artificial Intelligence
+✏️ Artificial Intelligence  
 ✉️ email : shes100@konkuk.ac.kr  
 📋 Blog : https://Woojin-Lee-AI.github.io  
 🌱 I’m currently learning Math & Deep Learning  
