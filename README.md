@@ -1,5 +1,4 @@
 🏫 Konkuk Univ. Seoul, Korea  
-✏️ Artificial Intelligence  
 ✉️ email : writerwoody@gmail.com  
 📋 Blog : https://6cs9.github.io  
 🌱 I’m currently learning Math & Machine Learning & Deep Learning  
