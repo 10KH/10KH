@@ -2,5 +2,5 @@
 ✉️ email : writerwoody@gmail.com  
 📋 Blog : https://6cs9.github.io  
 🌱 I’m currently learning Deep Learning  
-🌟 I'm interested in Natural Language Processing
+🌟 I'm interested in Reinforcement Learning
 
