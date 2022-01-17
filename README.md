@@ -1,4 +1,3 @@
-📋 CV : [Click](https://10kH.github.io)   
-🌱 Researching NLP             
+📋 CV : [Click](https://10kH.github.io)       
 🌟 Work hard, have fun, make history.
 
