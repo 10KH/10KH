@@ -1,2 +1,2 @@
-📋🌟 [CV](https://10kH.github.io)       
+[CV](https://10kH.github.io)       
  
